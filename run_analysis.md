@@ -816,4 +816,4 @@ tail(tidy_measures_avg[, c(1:5, 65:68)], 10)
 ```r
 write.csv(tidy_measures_avg, file("tidy_measures_avg.csv"))
 ```
-
+ 
