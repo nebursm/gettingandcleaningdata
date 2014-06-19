@@ -81,3 +81,4 @@ dim(tidy_measures_avg)
 head(tidy_measures_avg[,c(1:5, 65:68)],10)
 tail(tidy_measures_avg[,c(1:5, 65:68)],10)
 write.csv(tidy_measures_avg, file("tidy_measures_avg.csv"))
+ 
