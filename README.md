@@ -11,3 +11,4 @@ The following files are included:
 - run_analysis.md: the result of running the R code using an R markdown document
 - run_analysis.pdf: same as the above but in PDF format
 - codebook.md: the codebook of the resulting dataset from the run_analysis.R code 
+
